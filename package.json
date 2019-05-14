@@ -1,0 +1,15 @@
+{
+  "name": "nodeapijwt",
+  "version": "1.0.0",
+  "description": "node auth api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osagie Eloghosa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
